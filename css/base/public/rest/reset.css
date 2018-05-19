@@ -1,0 +1,15 @@
+/* 重置&默认(reset&base)(tags) */
+a {
+  color: #333;
+  text-decoration: none;
+}
+a {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+}
+*,
+:after,
+:before {
+  box-sizing: border-box;
+}
